@@ -1,2 +1,6 @@
-# Loot-table-generator
-A python script to make a loot table for minecraft java datapacks
+to use this program read me
+
+setup
+to setup program download the entire folder named program.
+then your output will be put in output.json
+to make the datapack and in the loot folder put the output file
