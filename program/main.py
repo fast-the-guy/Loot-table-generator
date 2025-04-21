@@ -22,10 +22,8 @@ def item_loot(item_inn):
 
     # credits https://betterstack.com/community/questions/how-to-append-to-a-file-in-python/
     # credits https://www.geeksforgeeks.org/how-to-delete-data-from-file-in-python/
-#,' + "\n"
     
     # Open the file in append 
-    # BROKEN
     with open("output.txt", "a") as file:
         file.write('        {' + "\n")
         file.write('          "type": "minecraft:item",' + "\n")
@@ -33,12 +31,6 @@ def item_loot(item_inn):
         file.write('          "name": "' + item_inn + '",' + '\n')  # BUG 
         file.write('          "weight": 1' + "\n")
         file.write('        },' + "\n")
-
-
-
-#create list reader + input to item_loot funcion for all items
-#line = "minecraft:grass_block"
-#item_loot(line)
 
 
 # set items for loop
