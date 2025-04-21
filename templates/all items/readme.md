@@ -9,3 +9,8 @@ like grass block and Minecraft:grass_block are the same as i converted from the 
 but bottle o' enchanting will not be converted to minecraft:experience_bottle by adding minecraft: and replacing space with _
 
 note that this prosses was not done in the program.
+
+note that this was onely made for 1.21.4 and will not be updated, unless i sometime want to, this is just a thing i made for fun
+
+Credits to
+Anonymous Axolotl for making a spreadsheet with all items in mc
