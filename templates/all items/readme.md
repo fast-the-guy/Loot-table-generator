@@ -12,5 +12,7 @@ note that this prosses was not done in the program.
 
 note that this was onely made for 1.21.4 and will not be updated, unless i sometime want to, this is just a thing i made for fun
 
+note that enchanted books are not included
+
 Credits to
 Anonymous Axolotl for making a spreadsheet with all items in mc
