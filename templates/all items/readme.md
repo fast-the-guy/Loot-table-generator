@@ -10,7 +10,7 @@ but bottle o' enchanting will not be converted to minecraft:experience_bottle by
 
 note that this prosses was not done in the program.
 
-note that this was onely made for 1.21.4 and will not be updated, unless i sometime want to, this is just a thing i made for fun
+note that this was only made for 1.21.4 and will not be updated, unless i sometime want to, this is just a thing i made for fun
 
 note that enchanted books are not included
 
