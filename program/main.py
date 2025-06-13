@@ -28,7 +28,7 @@ def item_loot(item_inn):
         file.write('        {' + "\n")
         file.write('          "type": "minecraft:item",' + "\n")
         #add item
-        file.write('          "name": "' + item_inn + '",' + '\n')  # BUG 
+        file.write('          "name": "' + item_inn + '",' + '\n')
         file.write('          "weight": 1' + "\n")
         file.write('        },' + "\n")
 
