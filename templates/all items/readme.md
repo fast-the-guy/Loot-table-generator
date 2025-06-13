@@ -16,3 +16,6 @@ note that enchanted books are not included
 
 Credits to
 Anonymous Axolotl for making a spreadsheet with all items in mc
+
+WARNING
+the items in the items.txt file are not edited to fix items with werd names
