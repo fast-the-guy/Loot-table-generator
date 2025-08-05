@@ -12,4 +12,7 @@ what is good about this loot table generator?
 
 setup
 to setup program download the entire folder named program.
-put your items in 
+put your items in input.txt example:
+#minecraft:gold
+#minecraft:grass
+#minecraft:diamond
